@@ -1,0 +1,6 @@
+@EJ2API_HostAddress = http://localhost:5204
+
+GET {{EJ2API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
